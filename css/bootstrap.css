@@ -3180,8 +3180,8 @@ input[type="button"].btn-block {
   opacity: 1;
 }
 .collapse {
-  display: none;
-  visibility: hidden;
+  display: inherit;
+  visibility: inherit;
 }
 .collapse.in {
   display: block;
