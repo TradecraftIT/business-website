@@ -5843,6 +5843,8 @@ button.close {
 .carousel {
   position: relative;
 }
+
+
 .carousel-inner {
   position: relative;
   width: 100%;
@@ -6294,6 +6296,26 @@ button.close {
     display: none !important;
   }
 }
+@media screen and (max-width: 600px) {
+  .carousel {
+    visibility: hidden;
+	margin-top: 10px;
+    display: none;
+  }
+  .row{
+    margin-top:20px;	
+  }
+  .col-md-6{
+	padding-left: 15px;
+}
+ .col-md-5{
+	padding-left: 25px;
+}
+ .col-lg-12{
+	padding-left: 25px;
+}
+}
+
 @media (min-width: 768px) and (max-width: 991px) {
   .hidden-sm {
     display: none !important;
