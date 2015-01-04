@@ -53,19 +53,20 @@
 						
 					</center>
                 <div id="akken">
-                    <iframe src="http://api.akken.com/newconreg/joborder_preview.php?companyuser=acesinc&akken_jpage=careers-details.php&akken_cpage=careers-account.php&akken_cppage=careers-profile.php" width="100%" height="800" frameborder="0"></iframe>
+                    <iframe src="http://api.akken.com/newconreg/joborder_preview.php?companyuser=acesinc&akken_jpage=careers-details.php&akken_cpage=careers-account.php&akken_cppage=careers-profile.php" width="100%" height="750" frameborder="0"></iframe>
+                </div>
+				<div style="margin-top:-65px">
 					<center><a class="btn btn-primary" href="mailto:careers@acesinc.net">Apply - Submit Your Resume</i></a><br>
 					<a href="careers.html">Back to Current Opportunities</a>	
 					</center>
-
-                </div>
+					</div>
       </div> <!-- end content -->
          </div> <!-- end main -->
 
       
    </div> <!-- end container -->
  <!-- Footer -->
-  <div id="footer"></div>
+  <div style="padding-top:50px"id="footer"></div>
 
     <!-- /.container -->
 

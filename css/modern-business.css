@@ -91,7 +91,7 @@ footer {
         height: 70%;
     }
 }
-.asubmitbutton{
+.center.input.asubmitbutton{
 	visibility:hidden !important;
-	display:none;
+	display:none !important;
 }
