@@ -4,7 +4,7 @@
 	<head>
 	<script type="text/javascript">
 		
-	   window.location="http://www.aces-incorp.com/careers.html";
+	   window.location="http://www.aces-incorp.com/about.html";
 	
 	</script>
 	</head>
