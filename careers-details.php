@@ -1,13 +1,4 @@
-<?php
-    header('Content-type: text/html; charset=utf-8');
 
-    include('inc/inc-navbar.php'); # Navigation bar generator
-    include('inc/inc-employees-login.php'); # Employee login banner
-    include('inc/inc-connection.php'); # Database connection
-
-    if(!function_exists('showPage')) {
-        function showPage($error_msg, $first_name = null) {
-?>
 <html lang="en">
 
 <head>
@@ -84,10 +75,4 @@
 
 </body>
 </html>
-<?php
-            die(); // stop at this point
-        }
-    }
 
-    include('inc/inc-empcheck.php');
-?>
